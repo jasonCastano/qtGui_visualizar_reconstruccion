@@ -6,8 +6,11 @@ La interfaz de usuario se desarrolló implementando QT5.11 (https://www.itdaan.c
 
 Los archivos referentes a la interfaz y programación se encuentran dentor del directorio */prueba1* el ejecutable y la compilación se creó y se ejecutó dentor del directorio */build*
 
+Las nubes de puntos implementadas se encuentran dentro del directorio *datasets/data*
+
 ## Resultados
 
+![Screenshot from 2021-01-23 16-59-30](https://user-images.githubusercontent.com/77637361/105615154-68d4f400-5d9c-11eb-81df-33fab6942197.png)
 
 
 
