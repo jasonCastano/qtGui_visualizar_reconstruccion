@@ -1,0 +1,4 @@
+/home/alejandro/Desktop/Qt/ejemplos/GUI1/build/CMakeFiles/rebuild_cache.dir
+/home/alejandro/Desktop/Qt/ejemplos/GUI1/build/CMakeFiles/pcl_visualizer_1.dir
+/home/alejandro/Desktop/Qt/ejemplos/GUI1/build/CMakeFiles/edit_cache.dir
+/home/alejandro/Desktop/Qt/ejemplos/GUI1/build/CMakeFiles/pcl_visualizer_1_autogen.dir
